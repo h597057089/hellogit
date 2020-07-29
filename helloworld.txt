@@ -1,6 +1,7 @@
-#include<int>
+#include<stdin>
 int n;
+int m;
 for(int i = 0; i < n; i++)
 {
-
+	git
 }
